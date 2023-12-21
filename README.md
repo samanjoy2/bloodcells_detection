@@ -14,7 +14,7 @@ This dataset contains 12,500 augmented images of blood cells (JPEG) with accompa
 
 Datasets used: https://www.kaggle.com/datasets/paultimothymooney/blood-cells
 
-- Models: 
+Models: 
 - Resnet50          - Test Accuracy 88.21%
 - Modified Resnet50 - Test Accuracy 89.42%
 - EfficientNetb0    - Test Accuracy 77.48%
